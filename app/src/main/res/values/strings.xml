@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CRE Development</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_receita">CadastroReceitaActivity</string>
+    <string name="title_activity_cadastro_despesa">CadastroDespesaActivity</string>
+    <string name="title_activity_visualizar">VisualizarActivity</string>
+    <string-array name="categoria">
+
+        <item>Lazer</item>
+        <item>Transporte</item>
+        <item>Salário</item>
+        <item>Moradia</item>
+        <item>Salário</item>
+
+    </string-array>
+</resources>
